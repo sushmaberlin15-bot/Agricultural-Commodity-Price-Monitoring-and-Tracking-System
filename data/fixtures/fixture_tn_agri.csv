@@ -1,0 +1,15 @@
+District,Market,Commodity,Arrival_Date,Min Price,Max Price,Modal Price,Unit
+Chennai,Koyambedu Market,Tomato,2026-10-18,2600,3200,2900,Rs/Quintal
+Chennai,Koyambedu Market,Onion,2026-10-18,3000,3600,3300,Rs/Quintal
+Chennai,Koyambedu Market,Potato,2026-10-18,2200,2700,2500,Rs/Quintal
+Chennai,Koyambedu Market,Brinjal,2026-10-18,1800,2400,2100,Rs/Quintal
+Chennai,Koyambedu Market,Green Chilli,2026-10-18,3800,4500,4200,Rs/Quintal
+Dindigul,Oddanchatram Market,Tomato,2026-10-18,2400,2900,2650,Rs/Quintal
+Dindigul,Oddanchatram Market,Onion,2026-10-18,2800,3400,3100,Rs/Quintal
+Coimbatore,Uzhavar Sandhai R.S. Puram,Tomato,2026-10-18,2500,3000,2750,Rs/Quintal
+Coimbatore,Uzhavar Sandhai R.S. Puram,Carrot,2026-10-18,3200,4100,3700,Rs/Quintal
+Madurai,Mattuthavani Central Market,Tomato,2026-10-18,2550,3100,2800,Rs/Quintal
+Madurai,Mattuthavani Central Market,Drumstick,2026-10-18,3400,4200,3800,Rs/Quintal
+Tiruchirappalli,Gandhi Market,Tomato,2026-10-18,2450,2950,2700,Rs/Quintal
+Salem,Shevapet Daily Market,Tomato,2026-10-18,2400,3000,2700,Rs/Quintal
+Salem,Shevapet Daily Market,Ladies Finger,2026-10-18,2000,2600,2300,Rs/Quintal
